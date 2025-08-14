@@ -282,10 +282,11 @@ test('vazio', () => {
 <!-- - **X (Twitter):** *(adicione seu link aqui)*
 - **Instagram:** *(adicione seu link aqui)* -->
 - **E-mail:** [jairobr1986@gmail.com](mailto:jairobr1986@gmail.com)
+- **IAs:** https://chatgpt.com/, https://poe.com/, https://gemini.google.com/ Usei as 3 para gera o readme e ainda precisa de ajustes e agora tenho de ir trabalhar.
 
 
 
-> Substitua os `<placeholders>` acima pelos seus links reais.
+
 
 ---
 

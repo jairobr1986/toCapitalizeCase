@@ -42,19 +42,19 @@
 ### npm
 
 ```bash
-npm install <npm-package-name>
+npm install tocaptcase
 ```
 
 ### yarn
 
 ```bash
-yarn add <npm-package-name>
+yarn add tocaptcase
 ```
 
 ### pnpm
 
 ```bash
-pnpm add <npm-package-name>
+pnpm add tocaptcase
 ```
 
 > Se você ainda **não tem** um `package.json`, crie com `npm init -y`.
@@ -66,7 +66,7 @@ pnpm add <npm-package-name>
 ### ES Modules (import)
 
 ```js
-import capitalizeCase from '<npm-package-name>';
+import capitalizeCase from 'tocaptcase';
 
 console.log(capitalizeCase('hello, npm!, JAIRO'));
 // → "Hello, Npm!, Jairo"
@@ -75,7 +75,7 @@ console.log(capitalizeCase('hello, npm!, JAIRO'));
 ### CommonJS (require)
 
 ```js
-const capitalizeCase = require('<npm-package-name>');
+const capitalizeCase = require('tocaptcase');
 
 console.log(capitalizeCase('bom DIA mundo'));
 // → "Bom Dia Mundo"
@@ -85,7 +85,7 @@ console.log(capitalizeCase('bom DIA mundo'));
 
 ```html
 <script type="module">
-  import capitalizeCase from 'https://unpkg.com/<npm-package-name>?module';
+  import capitalizeCase from 'https://unpkg.com/tocaptcase?module';
   console.log(capitalizeCase('javascript É legal!'));
   // → "Javascript É Legal!"
 </script>

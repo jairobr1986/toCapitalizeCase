@@ -1,0 +1,21 @@
+{
+  "name": "tocaptcase",
+  "version": "1.0.3",
+  "description": "Uma biblioteca simples para capitalizar strings.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "capitalize",
+    "string",
+    "case",
+    "utility"
+  ],
+  "author": "Jairo Oliverira Santos <jairobr1986@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tocaptcase": "^1.0.3"
+  }
+}
